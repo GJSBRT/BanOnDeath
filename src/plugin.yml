@@ -1,0 +1,6 @@
+name: BanOnDeath
+version: 1.8
+main:  org.allocatednetwork.banondeath.Main
+description: Bans the player on death.
+author: GSBRT
+api-version: 1.16
